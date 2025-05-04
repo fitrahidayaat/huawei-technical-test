@@ -1,6 +1,6 @@
 # Huawei Technical Test
 
-Aplikasi ini terdiri dari 3 komponen utama:
+Repositori ini terdiri dari 3 komponen utama:
 1. Frontend - Aplikasi formulir kontak
 2. Backend - REST API untuk mengelola data formulir
 3. Automation Scripts - Skrip pengumpulan dan pembersihan data otomatis
